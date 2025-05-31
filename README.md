@@ -1,11 +1,9 @@
 # Tasks
-�
-�
- Level 1: Python Basics & Data Types 
-Topics: Variables, Data Types, Strings, Numbers, Booleans, Input/Output 
-�
-�
- Exercises: 
+# Python Tasks
+## 🔥Level 1: Python Basics & Data Types 
+### Topics: Variables, Data Types, Strings, Numbers, Booleans, Input/Output 
+
+### 🔹Exercises: 
 1. Print "Hello, Hacker!" to the console. 
 2. Ask the user for their name and print "Welcome, [name]!". 
 3. Convert "1337" (string) to an integer and add 10. 
@@ -17,13 +15,11 @@ and quotient.
 8. Convert the string "100101" to a decimal number. 
 9. Print "H4ck3r" with alternating uppercase and lowercase letters. 
 10. Given password = "P@ssw0rd", replace all vowels with "*". 
-�
-�
- Level 2: Control Flow & Loops 
-Topics: If-else, For loops, While loops, Logical Operators 
-�
-�
- Exercises: 
+
+## 🔥Level 2: Control Flow & Loops 
+### Topics: If-else, For loops, While loops, Logical Operators 
+
+### 🔹Exercises: 
 1. Write a script that asks for a password and only allows access if it matches "s3cr3t". 
 2. Print all numbers from 1 to 100 except numbers divisible by 4. 
 3. Create a script that prints every 4-digit PIN code (0000-9999). 
@@ -35,13 +31,11 @@ Topics: If-else, For loops, While loops, Logical Operators
 and both with "FizzBuzz". 
 9. Use a while loop to continuously ask for a password until the correct one is entered. 
 10. Check if a string is a palindrome (same forward and backward). 
-�
-�
- Level 3: Lists, Tuples, and Dictionaries 
-Topics: Indexing, Iteration, Dictionary Lookups 
-�
-�
- Exercises: 
+
+## 🔥Level 3: Lists, Tuples, and Dictionaries 
+### Topics: Indexing, Iteration, Dictionary Lookups 
+
+### 🔹Exercises: 
 1. Create a list of 10 hacker tools (["Nmap", "Metasploit", "Wireshark", "Burp 
 Suite", "JohnTheRipper", ...]). 
 2. Print the 3rd item in the list. 
@@ -56,13 +50,11 @@ query by port number.
 9. Write a function that finds the longest word in a list. 
 10. Given a dictionary of usernames and passwords, write a script that asks for a username 
 and prints the stored password. 
-�
-�
- Level 4: Functions & Modules 
-Topics: Function Definitions, Arguments, Return Values, Importing Modules 
-�
-�
- Exercises: 
+
+## 🔥Level 4: Functions & Modules 
+### Topics: Function Definitions, Arguments, Return Values, Importing Modules 
+
+### 🔹Exercises: 
 1. Write a function that reverses a string. 
 2. Create a function that checks if a password is strong (at least 8 characters, includes a 
 number, and a special character). 
@@ -74,13 +66,11 @@ number, and a special character).
 8. Use Python’s uuid module to generate a random device ID. 
 9. Write a function that takes a hostname and resolves it to an IP address. 
 10. Write a function that extracts all vowels “aeiouAEIOU”  from a string. 
-�
-�
- Level 5: File Handling & OS Module 
-Topics: Reading/Writing Files, OS Commands 
-�
-�
- Exercises: 
+
+## 🔥Level 5: File Handling & OS Module 
+### Topics: Reading/Writing Files, OS Commands 
+
+### 🔹Exercises: 
 1. Write a script that reads a file and prints its contents. 
 2. Create a script that logs user input to a file (keystroke.log). 
 3. Write a program that lists all files in the current directory. 
@@ -91,13 +81,11 @@ Topics: Reading/Writing Files, OS Commands
 8. Write a script that compresses a file into a ZIP archive. 
 9. Find the largest file in a directory. 
 10. Scan a directory for files containing a specific keyword. 
-�
-�
- Level 6: Networking & Sockets 
-Topics: IP Addresses, Ports, Sockets, Requests Module 
-�
-�
- Exercises: 
+
+## 🔥Level 6: Networking & Sockets 
+### Topics: IP Addresses, Ports, Sockets, Requests Module 
+
+### 🔹Exercises: 
 1. Fetch and print your public IP address using an API. 
 2. Use socket to scan open ports on scanme.nmap.org for ports 20-100. 
 3. Write a script that sends an HTTP request to example.com and prints the response 
@@ -109,13 +97,11 @@ headers.
 8. Implement a script that finds live hosts on a local network. 
 9. Write a program that pings a list of IPs and prints their status. 
 10. Use Python to brute-force a login page with different passwords. 
-�
-�
- Level 7: Hacking Simulations & Mini Projects 
-Topics: Bringing It All Together 
-�
-�
- Exercises: 
+
+## 🔥Level 7: Hacking Simulations & Mini Projects 
+### Topics: Bringing It All Together 
+
+### 🔹Exercises: 
 1. Generate 10 fake email addresses. 
 2. Simulate a Caesar cipher encryption/decryption tool. 
 3. Build a script that scrapes all links from a webpage using BeautifulSoup. 
